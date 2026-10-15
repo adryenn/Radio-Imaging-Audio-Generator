@@ -1,0 +1,5 @@
+-r requirements.in
+transformers>=5.10,<6
+# torch.load protections require torch >=2.6, even though we only use safetensors.
+torch>=2.6,<3
+scipy>=1.15,<2
