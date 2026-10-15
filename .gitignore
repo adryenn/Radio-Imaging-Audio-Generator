@@ -165,3 +165,9 @@ cython_debug/
 .streamlit/secrets.toml
 .pytest_cache/
 .rafter/
+
+# Creator website and local backend
+website/node_modules/
+website/dist/
+server/db.sqlite3
+server/.env

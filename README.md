@@ -126,3 +126,13 @@ Created by Bilel Aroua / [Bilsimaging](https://bilsimaging.com), continuing the
 · [Contact](mailto:contact@bilsimaging.com)
 
 Application code: [MIT](LICENSE). Model/provider licensing is separate.
+
+## Creator subscription website (new)
+
+The new [Creator Imaging Studio website](website/README.md) is specifically for
+podcasters and content creators, learning from radio imaging's sonic craft. It
+adds a React landing page/studio and a separate Django account/billing backend.
+The existing Streamlit app remains independent and usable. The website's brand,
+pricing and payment/provider configuration are pending; it is not publicly
+launched or accepting payments. See its README for the local preview, production
+launch gates and tested subscription architecture.
